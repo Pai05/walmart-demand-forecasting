@@ -1,0 +1,15 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Raw and intermediate data (rebuild with the pipeline)
+data/raw/
+data/bronze/
+data/silver/
+data/gold/
+*.duckdb
+*.duckdb.wal
+
+# Local helper scripts
+src/update_readme.py

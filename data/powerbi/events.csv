@@ -1,0 +1,30 @@
+event,event_type,times,avg_lift_pct
+Thanksgiving,National,5,-33.2
+NewYear,National,5,-22.1
+Mother's day,Cultural,6,-14.9
+Halloween,Cultural,5,-14.8
+Easter,Cultural,5,-9.6
+Father's day,Cultural,4,-9.5
+Chanukah End,Religious,5,-2.8
+OrthodoxEaster,Religious,5,-2.0
+EidAlAdha,Religious,5,-1.8
+Pesach End,Religious,6,-1.5
+ValentinesDay,Cultural,6,-1.2
+NBAFinalsEnd,Sporting,5,-1.2
+StPatricksDay,Cultural,6,-0.9
+Eid al-Fitr,Religious,5,-0.7
+VeteransDay,National,5,0.1
+IndependenceDay,National,5,1.4
+OrthodoxChristmas,Religious,5,1.7
+MemorialDay,National,5,1.8
+LentWeek2,Religious,6,1.9
+MartinLutherKingDay,National,5,2.0
+Cinco De Mayo,Cultural,5,2.9
+Ramadan starts,Religious,5,3.1
+Purim End,Religious,6,3.4
+ColumbusDay,National,5,5.0
+NBAFinalsStart,Sporting,5,5.1
+LentStart,Religious,6,5.8
+SuperBowl,Sporting,6,6.2
+PresidentsDay,National,6,9.7
+LaborDay,National,5,26.6

@@ -1,0 +1,8 @@
+model,mae,rmse,bias_pct
+lgbm_v2,1.043,2.138,-3.6
+ma28_weekday,1.048,2.191,-3.9
+lgbm,1.066,2.207,-2.5
+moving_avg_28,1.066,2.243,-3.9
+seasonal_naive,1.244,2.677,-7.4
+naive_last_day,1.373,2.894,13.2
+zero,1.443,3.916,-100.0
